@@ -1,0 +1,80 @@
+*   [33m2f074fe[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31mrefky/master[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m Merge pull request #16 from pann89/Full
+[31m|[m[32m\[m  
+[31m|[m * [33m0188243[m model config
+[31m|[m[31m/[m  
+*   [33mef1802c[m Merge pull request #15 from pann89/Dot
+[33m|[m[34m\[m  
+[33m|[m * [33mdb24c00[m config baru
+[33m|[m *   [33mc3b7362[m Merge remote-tracking branch 'BeautifullyMaster/master'
+[33m|[m [35m|[m[33m\[m  
+[33m|[m [35m|[m[33m/[m  
+[33m|[m[33m/[m[35m|[m   
+* [35m|[m   [33mca88be4[m Merge pull request #14 from herawatiajis/heraajis
+[1;31m|[m[1;32m\[m [35m\[m  
+[1;31m|[m * [35m|[m [33med2c6e8[m detail.blade.php
+[1;31m|[m * [35m|[m [33m0315e0b[m mebambahkan file detail.blade.php *detail.bladenya ketinggalan
+[1;31m|[m * [35m|[m [33m9577f94[m mebambahkan file detail.blade.php *detail.bladenya ketinggalan
+[1;31m|[m * [35m|[m [33m5cf7486[m mebambahkan file detail.blade.php mengubah code di form dan index yang ada di folder registration-admin serta menambahkan function show, edit dan update di RegistrationController
+[1;31m|[m[1;31m/[m [35m/[m  
+[1;31m|[m * [33m61137f1[m perubahan sedikit
+[1;31m|[m[1;31m/[m  
+*   [33m8ef3630[m Merge pull request #13 from herawatiajis/heraajis
+[1;33m|[m[1;34m\[m  
+[1;33m|[m * [33m741b551[m menambahkan file registration-admin/form.blade.php
+[1;33m|[m * [33m94567b9[m menambahkan file registration-admin/form.blade.php dan menambahkan function create serta store di RegistrationController.php
+* [1;34m|[m   [33m9c29ab9[m Merge pull request #12 from pann89/hoon
+[1;35m|[m[1;36m\[m [1;34m\[m  
+[1;35m|[m * [1;34m|[m [33m15572c5[m navbar home baru
+[1;35m|[m[1;35m/[m [1;34m/[m  
+* [1;34m|[m   [33mc82b839[m Merge pull request #11 from pann89/hee
+[1;34m|[m[32m\[m [1;34m\[m  
+[1;34m|[m [32m|[m[1;34m/[m  
+[1;34m|[m[1;34m/[m[32m|[m   
+[1;34m|[m *   [33ma5efc51[m Merge branch 'master' into hee
+[1;34m|[m [33m|[m[1;34m\[m  
+[1;34m|[m [33m|[m[1;34m/[m  
+[1;34m|[m[1;34m/[m[33m|[m   
+* [33m|[m   [33mf6895ca[m Merge pull request #9 from herawatiajis/editHera
+[35m|[m[36m\[m [33m\[m  
+[35m|[m * [33m|[m [33me0f5327[m menambahkan folder registration-admin/index.blade.php mengubah url registration di sidebar menambahkan route untuk registartion admin di web.php, menambahkan function index di RegistrationController agar data registration bisa di tampilkan di view
+[35m|[m[35m/[m [33m/[m  
+[35m|[m * [33m90cd1d1[m configuration baru
+[35m|[m * [33m8056afa[m registration
+[35m|[m[35m/[m  
+*   [33m2346d36[m Merge pull request #8 from herawatiajis/herawati
+[1;31m|[m[1;32m\[m  
+[1;31m|[m * [33m559151d[m menambahkan file controller RegistrasiMember, folder registration member/index.blade.php dan form.blade.php menambahkan perubahan di models Registration
+* [1;32m|[m   [33m0a12052[m Merge pull request #7 from pann89/configuration
+[1;33m|[m[1;34m\[m [1;32m\[m  
+[1;33m|[m * [1;32m|[m [33m5c00bd0[m edit configuration
+[1;33m|[m * [1;32m|[m [33md753f96[m edit configuration
+[1;33m|[m[1;33m/[m [1;32m/[m  
+* [1;32m|[m   [33mec41e0d[m Merge pull request #4 from pann89/Fully
+[1;35m|[m[1;36m\[m [1;32m\[m  
+[1;35m|[m * [1;32m|[m [33m4c566d4[m index edit
+[1;35m|[m[1;35m/[m [1;32m/[m  
+* [1;32m|[m   [33ma90120d[m Merge pull request #3 from pann89/editFully
+[31m|[m[32m\[m [1;32m\[m  
+[31m|[m * [1;32m|[m [33mfae5b9c[m config lagi
+[31m|[m * [1;32m|[m [33mcb1977b[m config
+[31m|[m[31m/[m [1;32m/[m  
+* [1;32m|[m   [33m94cba20[m Merge pull request #2 from pann89/editFully
+[33m|[m[34m\[m [1;32m\[m  
+[33m|[m * [1;32m|[m [33md083518[m map
+[33m|[m * [1;32m|[m [33m7cc5049[m admin
+[33m|[m * [1;32m|[m [33m9bdbb74[m uji coba
+* [34m|[m [1;32m|[m   [33m9775b38[m Merge pull request #1 from herawatiajis/hera
+[35m|[m[1;32m\[m [34m\[m [1;32m\[m  
+[35m|[m [1;32m|[m [34m|[m[1;32m/[m  
+[35m|[m [1;32m|[m[1;32m/[m[34m|[m   
+[35m|[m * [34m|[m [33mfdee49d[m menambahkan perubahan di web.php, menambahkan folder profile di view dan menambahkan file ProfileController.php di controllers serta menambahkan field image di user.php pada folder models
+[35m|[m[35m/[m [34m/[m  
+* [34m|[m   [33mabf62ff[m Merge branch 'master' of https://github.com/beautifully07/NEMESIS
+[1;31m|[m[1;32m\[m [34m\[m  
+[1;31m|[m * [34m|[m [33md807a7d[m uji coba
+[1;31m|[m * [34m|[m [33m966b61d[m uji coba
+[1;31m|[m * [34m|[m [33m5f93489[m uji coba
+[1;31m|[m [34m|[m[34m/[m  
+* [34m/[m [33me9ef19d[m melakukan perubahan di web.php pada contact send, menghapus -us pada contac-us
+[34m|[m[34m/[m  
+* [33mae7b19c[m first initial
